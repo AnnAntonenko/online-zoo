@@ -1,1 +1,1 @@
-[# online-zoo](https://annantonenko.github.io/online-zoo/main)
+[# online-zoo](https://annantonenko.github.io/online-zoo/index.html)
